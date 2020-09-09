@@ -1,2 +1,4 @@
-# javaPro
-this is my first  project
+# 学习使用github
+# 联系git的使用方法
+
+
